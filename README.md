@@ -4,10 +4,10 @@ Using fastai library to create multi-label classification model on apparel datas
 ## File structure
 
 ```bash
-├── kaggle
-│   ├── input
-│   │   ├── apparel-dataset
-│   │   │   ├── black_dress
-│   │   │   │   ├── **/*.jpg
-│   └── working
+kaggle
+├── input
+│   ├── apparel-dataset
+│   │   ├── black_dress
+│   │   │   ├── **/*.jpg
+└── working
 ```
